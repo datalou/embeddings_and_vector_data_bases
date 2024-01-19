@@ -22,6 +22,9 @@ Embeddings are a powerful technique for representing data in a continuous vector
     2) Vector Database: Create and manage a vector database that enables fast and efficient storage, retrieval, and querying of vector representations.
 
     Example Implementations: Explore example implementations demonstrating the use of embeddings and vector databases in real-world scenarios.
+# Project
+
+![image-70bf4916-8759-47aa-bee3-52bb557318fd](https://github.com/datalou/embeddings_and_vector_data_bases/assets/88154997/4e6f7c90-8ace-49ed-ad33-5443f4336ea2)
 
 # Usage
 
